@@ -27,6 +27,16 @@ This mod makes Sand a renewable resource and adds a tactical use for it in comba
 4\. Launch Minecraft with the Forge profile.
 
 
+## Downloads
+
+
+
+You can also download Pocket Sand! for free from your preferred mod platform to support further projects:
+
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pocket-sand)
+- [Modrinth](https://modrinth.com/mod/pocket-sand!)
+
+
 
 \## License
 
