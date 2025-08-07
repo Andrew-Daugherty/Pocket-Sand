@@ -2,11 +2,11 @@
 
 
 
-Pocket Sand is a lightweight Forge mod for Minecraft that introduces a new item: the Pile of Sand.
+Pocket Sand! is a lightweight Forge mod for Minecraft that introduces a new item: the Pile of Sand.
 
 
 
-When defeated, Husk mobs drop Piles of Sand. Four piles can be crafted into one Sand block, and a Sand block can also be broken back down into four Piles of Sand. In addition, the Pile of Sand item can be thrown like a snowball to temporarily blind enemies for 3 seconds.
+When defeated, Husks drop Piles of Sand. Four Piles of Sand can be crafted into one Sand block, and a Sand block can also be broken back down into four Piles of Sand. In addition, the Pile of Sand item can be thrown like a snowball to inflict Blindness on the target for 3 seconds.
 
 
 
