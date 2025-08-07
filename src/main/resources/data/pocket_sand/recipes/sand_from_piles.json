@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PP",
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "item": "pocket_sand:pile_of_sand"
+    }
+  },
+  "result": {
+    "item": "minecraft:sand",
+    "count": 1
+  }
+}
