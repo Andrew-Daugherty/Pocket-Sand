@@ -1,4 +1,4 @@
-\# Pocket Sand!
+## Pocket Sand!
 
 
 
@@ -6,7 +6,7 @@ Pocket Sand is a lightweight Forge mod for Minecraft that introduces a new item:
 
 
 
-When killed, Husk mobs drop Piles of Sand. Four piles can be crafted into one Sand block, and a Sand block can also be broken back down into four Piles of Sand. In addition, the Pile of Sand item can be thrown like a snowball to temporarily blind enemies for 3 seconds.
+When defeated, Husk mobs drop Piles of Sand. Four piles can be crafted into one Sand block, and a Sand block can also be broken back down into four Piles of Sand. In addition, the Pile of Sand item can be thrown like a snowball to temporarily blind enemies for 3 seconds.
 
 
 
@@ -14,15 +14,15 @@ This mod makes Sand a renewable resource and adds a tactical use for it in comba
 
 
 
-\## Installation
+## Installation
 
 
 
 1\. Install Minecraft Forge for the appropriate version of the game.
 
-2\. \[Download the mod jar from the Releases page.](https://github.com/Andrew-Daugherty/Pocket-Sand-/releases)
+2\. [Download the mod jar from the Releases page.](https://github.com/Andrew-Daugherty/Pocket-Sand-/releases)
 
-3\. Place the jar file in your `mods` folder.
+3\. Place the jar file in your mods folder.
 
 4\. Launch Minecraft with the Forge profile.
 
@@ -38,7 +38,7 @@ You can also download Pocket Sand! for free from your preferred mod platform to 
 
 
 
-\## License
+## License
 
 
 
